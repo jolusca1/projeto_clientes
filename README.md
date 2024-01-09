@@ -1,2 +1,2 @@
 # projeto_clientes
- Projeto para solidificar conhecimentos em Django Rest Framework
+ Projeto pessoal de sistema de clientes para solidificar conhecimentos em Django Rest Framework
